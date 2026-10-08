@@ -1,0 +1,6 @@
+{
+  "name": "Everyday - 3D Life Simulation",
+  "description": "An original 3D third-person life simulation game set in Dunmore Square, Brightwater. Work, eat, pay rent, build your routine, and thrive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
